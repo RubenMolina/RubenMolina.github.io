@@ -4,6 +4,7 @@ tagline:             Learning Data Science
 url:                 https://rubenmolina.github.io/
 paginate:            1
 baseurl:             "https://rubenmolina.github.io/"
+about:               "https://rubenmolina.github.io/about"
 
 # Assets
 #
