@@ -1,9 +1,9 @@
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Ruben Molina
+tagline:             Learning Data Science
+url:                 https://rubenmolina.github.io/
 paginate:            1
-baseurl:             ""
+baseurl:             "https://rubenmolina.github.io/"
 
 # Assets
 #
@@ -14,11 +14,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ruben Molina
+  url:               https://twitter.com/RubenMolina03
+  email:             rbntgn@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/RubenMolina
