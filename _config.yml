@@ -6,7 +6,7 @@ paginate:            1
 pages_list:       
   About: '/about'
   Archive: '/archive'
-  Feed: '/atom.xml'
+  #Feed: '/atom.xml'
 
 # Assets
 #
