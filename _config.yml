@@ -4,8 +4,8 @@ tagline:             Learning Data Science
 url:                 https://rubenmolina.github.io/
 paginate:            1
 pages_list:  
-  Archive: '/archive'
   About: '/about'
+  Posts: '/posts'
   #Feed: '/atom.xml'
 
 # Assets
