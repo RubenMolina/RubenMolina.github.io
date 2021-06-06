@@ -3,28 +3,25 @@ layout: page
 title: About
 ---
 
+## About me
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there, I'm Ruben! I'm a Biological Data Scientist, (or Bioinformatician) working in biomedical research in *University Pompeu Fabra*.
 </p>
+  
+I started as a biochemist, but my love for programming and the huge interest I have in how the actual amount of data let us predict ordinary things made me shift to Data Science :)
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+During my path until I'm now I developed multiple abilities in the data science field, like ETL pipelines, Machine Learning Algorithms , Deep Learning Models and Statistical Analysis.
 
-There are currently two themes built on Poole:
+I'm extremely curious and I always want to learn new things, since I believe that learning let us improve every day.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## What is this page?
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+This blog will be my collection of tips and recipes at disposal of anybody who needs them to learn new aspects of Data Science, since this field is constantly evolving at a quick pace.
 
-## Setup
+I'm going to cover concepts of Machine Learning, Base Statistics and Data engineering.
 
-Some fun facts about the setup of this project include:
+I hope you find the things I am sharing useful to you, if yes, you can contact me on twitter [@RubenMolina03] (https://twitter.com/RubenMolina03) and I will be glad to answer!
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
