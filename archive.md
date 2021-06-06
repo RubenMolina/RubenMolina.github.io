@@ -15,4 +15,5 @@ Browse all posts by month and year.
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  
 {% endfor %}
