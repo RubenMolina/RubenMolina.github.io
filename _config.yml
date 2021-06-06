@@ -5,7 +5,7 @@ url:                 https://rubenmolina.github.io/
 paginate:            1
 pages_list:  
   About: '/about'
-  Posts: '/posts'
+  Archive: '/archive'
   #Feed: '/atom.xml'
 
 # Assets
