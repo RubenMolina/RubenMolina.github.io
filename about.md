@@ -9,16 +9,13 @@ title: About
 </p>
 
 <div class="row">
-  <div class="column">
-        <img src="images/ruben.jpg" alt="Me" width="300"/>
-  </div>
+    <img src="images/ruben.jpg" alt="Me" width="300"/>
+ </div>
   
-  <div class="column">
-        I started as a biochemist, but my love for programming and the huge interest I have in how the actual amount of data let us predict ordinary things made me shift to Data Science :)
-    <br>
-    During my path until I'm now I developed multiple abilities in the data science field, like ETL pipelines, Machine Learning Algorithms , Deep Learning Models and Statistical Analysis.
-  </div>
-</div>
+
+I started as a biochemist, but my love for programming and the huge interest I have in how the actual amount of data let us predict ordinary things made me shift to Data Science :)
+
+During my path until I'm now I developed multiple abilities in the data science field, like ETL pipelines, Machine Learning Algorithms , Deep Learning Models and Statistical Analysis.
 
 I'm extremely curious and I always want to learn new things, since I believe that learning let us improve every day.
 
