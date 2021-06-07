@@ -9,7 +9,7 @@ title: About
 </p>
 
 <div class="row">
-    <img src="images/ruben.jpg" alt="Me" width="300"/>
+    <img src="images/ruben.jpg" alt="Me" width="300" class="center"/>
  </div>
   
 
