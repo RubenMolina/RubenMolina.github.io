@@ -9,7 +9,7 @@ title: About
   Hey there, I'm Ruben! I'm a Biological Data Scientist, (or Bioinformatician) working in biomedical research in *University Pompeu Fabra*.
 </p>
 
-<img src="images/ruben.jpg" alt="Me" width="150"/>
+<img src="images/ruben.jpg" alt="Me" width="200"/>
   
 I started as a biochemist, but my love for programming and the huge interest I have in how the actual amount of data let us predict ordinary things made me shift to Data Science :)
 
