@@ -16,7 +16,7 @@ I started as a biochemist, but my love for programming and the huge interest I h
 
 During my path until I'm now I developed multiple abilities in the data science field, like ETL pipelines, Machine Learning Algorithms , Deep Learning Models and Statistical Analysis.
 
-I'm extremely curious and I always want to learn new things, since I believe that learning let us improve every day.
+I'm extremely curious and I always want to learn new things, since I believe that learning let us improve every day. I'm also a minimalist :)
 
 ## What is this blog?
 
