@@ -5,12 +5,22 @@ title: About
 
 
 
-<p class="message">
-  Hey there, I'm Ruben! I'm a Biological Data Scientist, (or Bioinformatician) working in biomedical research in *University Pompeu Fabra*.
-</p>
+
+
+<div class="row">
+  <div class="column">
+    <p class="message">
+      Hey there, I'm Ruben! I'm a Biological Data Scientist, (or Bioinformatician) working in biomedical research in *University Pompeu Fabra*.
+    </p>
+  </div>
+  
+  <div class="column">
+    ![Me](images/ruben.jpg)
+  </div>
+</div>
 
 <img src="images/ruben.jpg" alt="Me" width="200"/>
-![Me](images/ruben.jpg)
+
 
 
 I started as a biochemist, but my love for programming and the huge interest I have in how the actual amount of data let us predict ordinary things made me shift to Data Science :)
