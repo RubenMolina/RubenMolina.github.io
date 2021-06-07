@@ -4,12 +4,12 @@ title: About
 ---
 
 
-<br>
+
 <p class="message">
   Hey there, I'm Ruben! I'm a Biological Data Scientist, (or Bioinformatician) working in biomedical research in *University Pompeu Fabra*.
 </p>
 
-<img src="images/ruben.jpg" alt="Me" width="200"/>
+<img src="images/ruben.jpg" alt="Me" width="150"/>
   
 I started as a biochemist, but my love for programming and the huge interest I have in how the actual amount of data let us predict ordinary things made me shift to Data Science :)
 
@@ -18,7 +18,6 @@ During my path until I'm now I developed multiple abilities in the data science 
 I'm extremely curious and I always want to learn new things, since I believe that learning let us improve every day.
 
 ## What is this blog?
-<br>
 
 This blog will be my collection of tips and recipes at disposal of anybody who needs them to learn new aspects of Data Science, since this field is constantly evolving at a quick pace.
 
