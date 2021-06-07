@@ -15,11 +15,11 @@ title: About
   </div>
   
   <div class="column">
-    ![Me](images/ruben.jpg)
+    <img src="images/ruben.jpg" alt="Me" width="200"/>
   </div>
 </div>
 
-<img src="images/ruben.jpg" alt="Me" width="200"/>
+
 
 
 
