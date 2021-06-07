@@ -77,14 +77,16 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-.column {
-  float: left;
-  width: 50%;
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
 }
